@@ -5,6 +5,7 @@ We divided our work on two case studies for the VRPTW problem.
 You can see both cases here with associated files (especially three agents : genetic, tabou and simulated annealing).
 
 You can also find Kaggle notebooks with the following links :
+- SMA : https://www.kaggle.com/karimzaidi/sma-3-agents
 - Reinforcement learning on genetic agent : https://www.kaggle.com/ascagne/rl-gen/edit
 - Reinforcement learning on tabou agent : https://www.kaggle.com/ascagne/rl-tabouv2/edit
 - Reinforcement learning on simulated annealing agent : https://www.kaggle.com/ascagne/rl-rs/edit
